@@ -9,7 +9,7 @@
 | Integrante  | Descripción  | Conocimiento  |
 |-------------|--------------|---------------|
 |Ruben Velasquez Chambi - U202117342 ![Integrante-Ruben](/assets/img/chapter-I/Integrante-Ruben.jpeg)|Soy estudiante de la Universidad Peruana de Ciencias Aplicadas y actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software, tengo 23 años. Me destaco en el trabajo en equipo y en encontrar formas de mejorar la eficiencia del equipo.| Tengo un nivel intermedio de conocimiento en C++, Node.js y TypeScript, así como habilidades básicas en Angular, HTML, CSS y PHP.Tambien manejo el desarrollo bajo los principios SOLID|
-| Integrante 2| Descripción 2| Conocimiento 2|
+| Fabrizio Alexander Cutiri Agüero - U201914181 ![Integrante-Fabrizio](/assets/img/chapter-I/Integrante-Fabrizio.jpg)|Mi nombre es Fabrizio Cutiri, tengo 22 años y soy estudiante de sexto ciclo de la carrera de Ingeniería de Software de la UPC. Elegí esta carrera porque tengo intéres en desarrollar soluciones innovadoras para empresas y/o personas mediante aplicaciones webs y móbiles | Tengo conocimientos de nivel intermedio en C++, C# y Java. Tambien tengo conocimientos básicos en desarrollo web (HTML,CSS,Javascript) y algunos frameworks como Bootstrap 5 y ExpressJS. Por ultimo, manejo bases de datos relacionales (SQL Server, MySQL) y no relacionales (MongoDB)|
 
 ## 1.2. Solution Profile
 
