@@ -133,6 +133,31 @@ Hemos observado que los restaurantes que ofrecen menús no suelen invertir en pu
     **¿Cómo podríamos apoyar a los restaurantes que ofrecen menús a diferenciarse de la competencia y ampliar su alcance a nuevos clientes?**
 
 #### 1.2.2.2. Lean UX Assumptions
+#### Users:
+
+* Empresas de distintos sectores laborales ubicados en Lima Metropolitana que buscan brindar servicios de almuerzo a sus empleados
+
+* Restaurantes que ofrecen servicio de almuerzo, que requieran publicitar sus servicios y necesitan una forma de administrar mejor su negocio
+
+#### Assumptions:
+
+1. Creemos que nuestros usuarios del sector empresas necesitan conocer buenos restaurantes para solicitar pedidos de almuerzo para sus trabajadores y evitar problemas con la comida
+
+2. Creemos que nuestros usuarios del sector restaurante necesitan publicitarse en una plataforma para llegar a más clientes y encontrar una forma más sencilla de administrar su negocio
+
+3. Creemos que las necesidades de nuestros usuarios del sector empresas se pueden satisfacer con una aplicación que ofrezca el servicio de almuerzo de distintos restaurantes cercanos, presentando principalmente a los restaurantes mejor calificados
+
+4. Creemos que las necesidades de nuestros usuarios del sector restaurante se pueden satisfacer mediante una aplicación donde puedan ofrecer sus servicios y que los ayude a gestionar su negocio
+
+5. Creemos que los beneficios que ofrece nuestro producto al sector de empresas, es la localización sencilla de buenos restaurantes y el descuento en el precio de los almuerzos
+
+6. Creemos que los beneficios que ofrece nuestro producto al sector de restaurantes, es aumentar el alcance de su negocio a nuevos clientes, ser reconocidos en la aplicación por la calidad de su servicio y administrar eficientemente su negocio
+
+7. Creemos que la mejor estrategia para ganar dinero con nuestro producto será mediante un plan de suscripción por los beneficios que ofrece, tanto para el sector de empresas como el de restaurantes
+
+8. Creemos que una buena estrategia para adquirir a la mayoría de nuestros clientes sería promocionar nuestro producto mediante el despliegue de una Landing Page que describa los beneficios que ofrecemos al segmento objetivo.
+
+9. Creemos que nuestra competencia principal son aplicaciones que ofrecen servicio de almuerzo como Manzana Verde, UberEats, etc
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
