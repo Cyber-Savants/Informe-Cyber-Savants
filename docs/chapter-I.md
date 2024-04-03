@@ -2,7 +2,15 @@
 ---
 ## 1.1. Startup Profile
 
+Somos Cyber Savants, un grupo de estudiantes de Ingeniería de Software y Ciencias de la Computación de la Universidad Peruana de Ciencias Aplicadas(UPC). Nosotros buscamos proporcionar el uso de tecnologías nuevas, mediante una aplicación que le brindará a los usuarios que puedan obtener diferentes menús mediante un plan de suscripción.
+
+**Misión**: Otorgar a los usuarios experiencias gastronómicas convenientes y personalizadas, uniendo  las empresas con los restaurantes a través de nuestra aplicación web.
+
+**Visión**: Nuestra visión principal es ser la principal plataforma digital de suscripciones de almuerzos, cambiando el paradigma en que las empresas y restaurantes interactúan para ofrecer opciones de comida de calidad y conveniencia a nivel global.
+
 ### 1.1.1. Descripción de la Startup
+
+Easy Food es una plataforma web de suscripciones de almuerzos para empresas. Ofrece planes flexibles según el tamaño de la empresa. Los usuarios pueden personalizar sus menús, y los restaurantes se registran para ampliar la gestión general de su negocio. La aplicación incluye funciones como filtros de restaurantes, búsqueda, notificaciones, entre otras más para una experiencia completa y conveniente.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -11,6 +19,8 @@
 |Ruben Velasquez Chambi - U202117342 ![Integrante-Ruben](/assets/img/chapter-I/Integrante-Ruben.jpeg)|Soy estudiante de la Universidad Peruana de Ciencias Aplicadas y actualmente estoy cursando el sexto ciclo de la carrera de Ingeniería de Software, tengo 23 años. Me destaco en el trabajo en equipo y en encontrar formas de mejorar la eficiencia del equipo.| Tengo un nivel intermedio de conocimiento en C++, Node.js y TypeScript, así como habilidades básicas en Angular, HTML, CSS y PHP.Tambien manejo el desarrollo bajo los principios SOLID|
 | Fabrizio Alexander Cutiri Agüero - U201914181 ![Integrante-Fabrizio](/assets/img/chapter-I/Integrante-Fabrizio.jpg)|Mi nombre es Fabrizio Cutiri, tengo 22 años y soy estudiante de sexto ciclo de la carrera de Ingeniería de Software de la UPC. Elegí esta carrera porque tengo intéres en desarrollar soluciones innovadoras para empresas y/o personas mediante aplicaciones webs y móbiles | Tengo conocimientos de nivel intermedio en C++, C# y Java. Tambien tengo conocimientos básicos en desarrollo web (HTML,CSS,Javascript) y algunos frameworks como Bootstrap 5 y ExpressJS. Por ultimo, manejo bases de datos relacionales (SQL Server, MySQL) y no relacionales (MongoDB)|
 | Omar Berrocal Ramirez - U20201B529 ![Integrante-Omar](/assets/img/chapter-I/Integrante-Omar.jpg)|Mi nombre es Omar Christian Berrocal Ramirez, estudiante de la carrera ingeniería de Software. Desde pequeño me han llamado la atención las máquinas y la tecnología, por ello es que elegí esta carrera y así satisfacer mi curiosidad sobre nuevas tecnologías.  | Tengo conocimientos en lenguajes de programación tales como C++, Python, y lo básico Java y C#. Además, cuento con conocimiento de Bases de Datos (SQL Server y MongoDB) y habilidades básicas HTML y CSS.|
+| Sebastián Córdova Valdivia - U202111041 ![Integrante-Sebas](/assets/img/chapter-I/Integrante-Sebas.jpeg)|Soy un estudiante de la Universidad Peruana de Ciencias Aplicadas. Actualmente tengo 20 años y me encuentro en el séptimo ciclo de la carrera de Ingeniería de Software.|Durante la carrera he adquirido conocimientos del uso de C + +, Python y  en el desarrollo web mediante el uso de HTML, CSS y JavaScript. También en el manejo de base de datos con SQL y realizar un modelo de redes para establecer conexiones entre diferentes sedes.|
+
 
 ## 1.2. Solution Profile
 
@@ -165,3 +175,7 @@ Hemos observado que los restaurantes que ofrecen menús no suelen invertir en pu
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo.
+
+-Restaurantes interesados en expandir su clientela y optimizar sus operaciones a través de un sistema digital de suscripciones.
+
+-Empresas que necesiten del servicio de los restaurantes para proveer diferentes opciones de comida a sus colaboradores.
