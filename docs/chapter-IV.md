@@ -53,3 +53,6 @@
 ## 4.8. Database Design.
 
 ## 4.8.1. Database Diagram.
+![database-diagram](/assets/img/chapter-IV/database-diagram-easyfood.png)
+
+**Link del diagrama en Vertabelo:**  [Ver este enlace](https://my.vertabelo.com/public-model-view/4FnAjF9SXFScNFBxXBD8VsRxXpTCjtXen9Jtf7MoO8jG36eS9E8dRmO1GbhmfLSh?x=2210&y=2736&zoom=0.70)
