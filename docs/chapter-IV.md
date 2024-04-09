@@ -21,8 +21,19 @@
 ## 4.3. Landing Page UI Design.
 
 ## 4.3.1. Landing Page Wireframe.
+En esta sección se mostrará una representación de bajo nivel de la landing page.[link de wireframe](https://www.figma.com/file/Knz75liEoBEB9POvafVm5x/Lading-EasyFood?type=design&node-id=125-55&mode=design&t=2YK1fGytZAxA1E1I-0)
+
+**Landing Page para Desktop Web Browser:**
+
+![wirefram desktop](../assets/img/chapter-IV/Wireframe-EasyFood.png)
+
+**Mobile Web Browser:**
+![wireframe mobile](../assets/img/chapter-IV/mobile-wireframe-easyfood.png)
 
 ## 4.3.2. Landing Page Mock-up.
+En esta sección se mostrará la landing page haciendo uso de la tipografía, colores y etiquetas,previamente documentada. [link de Mockup](https://www.figma.com/file/Knz75liEoBEB9POvafVm5x/Lading-EasyFood?type=design&node-id=125-55&mode=design&t=2YK1fGytZAxA1E1I-0)
+
+![mockup-deskop](../assets/img/chapter-IV/Mockups-easyfood.png)
 
 ## 4.4. Web Applications UX/UI Design.
 
