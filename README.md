@@ -42,11 +42,20 @@ Link de reporte:[Github reporte](https://github.com/Cyber-Savants/Informe-Cyber-
 Link de Landing page[GitGub Landing page](https://github.com/Cyber-Savants/easyfood-landing-page)
 
 **Reporte de la elaboracion de la TB1**
-Durante la tb1 se hizo la docuemtacion de nuestro proyecto,tanto explicando de que se trata y en que evidencias nos basamos,ademas de fijar en la documentacion la funcionalidad que tendria nuestra aplicacion web. Tambien realizamos una landing page para que nuestros visitantes se conviertan o sea propensos a convertirce en clientes, para esto se realizo todo el informe y la landing page de forma colaborativa.
+Durante la TB1, nos dedicamos a la documentación exhaustiva de nuestro proyecto. Esto incluyó tanto una explicación detallada y las evidencias en las que nos basamos, como la especificación de las funcionalidades previstas para nuestra aplicación web. Además, colaboramos en la creación de una landing page diseñada para convertir a los visitantes en clientes potenciales. Este proceso implicó la elaboración conjunta del informe y landing page
 
 ### Contenido
 
 ## Student Outcome
+El curso contribuye al cumplimiento del Student Outcome ABET:
+**ABET – EAC - Student Outcome 5**
+Criterio: *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| Participa en equipos multidisciplinarios con eficacia eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Celda 1,2 | Celda 1,3 |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Celda 2,2 | Celda 2,3 |
+
 
 # Índice
 
