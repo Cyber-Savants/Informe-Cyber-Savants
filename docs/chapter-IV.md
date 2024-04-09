@@ -28,6 +28,7 @@ En esta sección se mostrará una representación de bajo nivel de la landing pa
 ![wirefram desktop](../assets/img/chapter-IV/Wireframe-EasyFood.png)
 
 **Mobile Web Browser:**
+Aqui se mostrara un esquema a bajo nivel de la version mobile, cumpliendo con la regla de ser responsive.
 ![wireframe mobile](../assets/img/chapter-IV/mobile-wireframe-easyfood.png)
 
 ## 4.3.2. Landing Page Mock-up.
