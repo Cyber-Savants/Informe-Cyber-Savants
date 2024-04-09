@@ -26,12 +26,23 @@ Fecha: **marzo de 2024**.
 ----
 
 
-| Version      | Fecha        | Autor        | Descripcion de modificacion |
-|--------------|--------------|--------------|-----------------------------|
-|   |  |  |                  |
+| Versión   | Fecha       | Autor     | Descripción de modificación |
+|-----------|-------------|-----------|-----------------------------|
+|           |             |           |                             |
+|           |             |           |                             |
+|           |             |           |                             |
+|           |             |           |                             |
+|           |             |           |                             |
+|           |             |           |                             |
+        
+### Project Report Collaboration Insights.
 
+Link de la organizacion:[GitHub organizacion CyberSavants](https://github.com/Cyber-Savants)
+Link de reporte:[Github reporte](https://github.com/Cyber-Savants/Informe-Cyber-Savants)
+Link de Landing page[GitGub Landing page](https://github.com/Cyber-Savants/easyfood-landing-page)
 
-### Project Report Collaboration Insights
+**Reporte de la elaboracion de la TB1**
+Durante la tb1 se hizo la docuemtacion de nuestro proyecto,tanto explicando de que se trata y en que evidencias nos basamos,ademas de fijar en la documentacion la funcionalidad que tendria nuestra aplicacion web. Tambien realizamos una landing page para que nuestros visitantes se conviertan o sea propensos a convertirce en clientes, para esto se realizo todo el informe y la landing page de forma colaborativa.
 
 ### Contenido
 
