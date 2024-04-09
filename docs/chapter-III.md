@@ -22,7 +22,7 @@
 | EP005 | Control de Inventario y Gestión de Productos | Como administrador del restaurante afiliado, quiero poder registrar y actualizar fácilmente los productos e ingredientes en mi control de inventario, para asegurarme de que tenga suficientes insumos para preparar los pedidos. |
 | EP006 | Procesamiento de Pagos y Facturación | Como usuario quiero poder registrar una tarjeta de crédito para realizar los movimientos financieros como pago de la suscripción o retiro de ganancias Para garantizar un proceso de pago sin complicaciones y de manera segura. |
 | EP007 | Información de la aplicación web | Como visitante quiero saber información de la aplicación web para ver si me interesa sus funcionalidades. |
-EPIC-008|Request y Response |Cómo desarrollar quiero poder interactuar con la Rest Api a través de Request y Response para poder  poder construir caracteristicas para mi aplicación |
+EP008|Request y Response |Cómo desarrollar quiero poder interactuar con la Rest Api a través de Request y Response para poder  poder construir caracteristicas para mi aplicación |
 
 #### User stories: 
 Aqui se describira los user stories de la aplicación web y de la landing page.
