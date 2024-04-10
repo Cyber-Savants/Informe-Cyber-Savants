@@ -196,7 +196,7 @@ Usando una paleta de colores definida, así sería nuestro concepto de mock-ups 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-
+![Mock-Up-Flow](../assets/img/chapter-IV/Mock-Up-User-Flow-Diagrams.png) 
 
 ### 4.5. Web Applications Prototyping.
 
