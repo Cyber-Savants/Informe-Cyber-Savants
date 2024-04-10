@@ -26,16 +26,48 @@ Fecha: **marzo de 2024**.
 ----
 
 
-| Version      | Fecha        | Autor        | Descripcion de modificacion |
-|--------------|--------------|--------------|-----------------------------|
-|   |  |  |                  |
+| Versión   | Fecha       | Autor     | Descripción de modificación |
+|-----------|-------------|-----------|-----------------------------|
+|   1.0.0   |27/03/2024   | Ruben Velasquez Chambi| Se creo la estructura del proyecto y la caratula|
+|  1.0.1    | 28/03/2024 | Ruben Velasquez Chambi | Descripcion de los integrantes|
+|   1.0.2   | 28/03/2024  |Ruben Veasquez Chambi | Problematica asiendo uso de 5W's y 2H's|
+|   1.0.3  | 04/04/2024   |Ruben Velasquez Chambi | As-is Scenario mapping|
+|   1.0.4 | 04/04/2024 | Ruben Velasquez Chambi  | Tabla de las epics   |
+|  1.0.5  |  05/04/2024 | Ruben Velasquez Chambi  | to-be scenario mapping   |
+|  1.0.6 | 05/04/2024   | Ruben Velasquez Chambi | User Stories |
+| 1.0.7 | 09/04/2024 | Ruben Velasquez Chambi | Tecnical stories  |
+| 1.0.8 | 09/04/2024 | Ruben Velasquez Chambi | Wireframe de lading page|
+| 1.0.9 | 09/04/2024 | Ruben Velasquez Chambi | mock-up de lading  page | 
+|1.1.1 |  10/04/2024| Ruben Velasquez Chambi | Documentacion de sprint 1 |
+        
+### Project Report Collaboration Insights.
 
+Link de la organizacion:[GitHub organizacion CyberSavants](https://github.com/Cyber-Savants)
+Link de reporte:[Github reporte](https://github.com/Cyber-Savants/Informe-Cyber-Savants)
+Link de Landing page[GitGub Landing page](https://github.com/Cyber-Savants/easyfood-landing-page)
+[Link del Despliegue de la lading Page]() 
 
-### Project Report Collaboration Insights
+**Reporte de la elaboracion de la TB1**
+Durante la TB1, nos dedicamos a la documentación exhaustiva de nuestro proyecto. Esto incluyó tanto una explicación detallada y las evidencias en las que nos basamos, como la especificación de las funcionalidades previstas para nuestra aplicación web. Además, colaboramos en la creación de una landing page diseñada para convertir a los visitantes en clientes potenciales. Este proceso implicó la elaboración conjunta del informe y landing page
 
+##### Repositorio Landing Page
+**Pulse**
+
+![pulse-landing](/assets/img/logo/pulse-landing.jpeg)
+
+**Contribuidor**
+
+![contribuidor-landing](/assets/img/logo/contribuidor-landing.png)
+
+##### Repositorio Informe
+**Pulse**
+
+![pulse-infomre](/assets/img/logo/pulse-informe.jpeg)
+
+**Contribuidor**
+
+![contribuidor-informe](/assets/img/logo/contribuidor-informe.png)
 ### Contenido
-
-## Student Outcome
 
 # Índice
 
@@ -127,3 +159,16 @@ Fecha: **marzo de 2024**.
 
 - [Concluciones](./docs/conclusions.md)
 - [Bibliografía](./docs/bibliography.md)
+
+
+# Anexos
+
+## Student Outcome
+El curso contribuye al cumplimiento del Student Outcome ABET:
+**ABET – EAC - Student Outcome 5**
+Criterio: *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| **Participa en equipos multidisciplinarios con eficacia eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.** | **Ruben Velasquez Chambi**<br> **TB1** <br>Definí el problema de mi proyecto utilizando la técnica de las 5W’s y 2H’s.<br>Elaboré el As-is Scenario map para el segmento objetivo de restaurantes.<br>Realizó el To-be Scenario Map del segmento objetivo de restaurantes.<br>Define las funcionalidades y escenarios a través de Historias de Usuario.<br>Diseño el wireframe de la landing page para que los visitantes se puedan convertir en posibles usuarios.<br>Diseño el mock-up para tener claro el diseño de la landing page <br>Realizó el diagrama de clase haciendo uso de patrones de diseño, como state y abstract factory.<br>Se documentó todo lo relacionado con el sprint 1 <br> <br> **Fabrizio Alexander Cutiri Agüero** <br/> **TB1** <br/> - Realizó el Problem statement y Assumptions del Lean UX Process <br/> - Participó en el diseño de las preguntas para las entrevistas <br/> - Realizó el registro y análisis de las tres entrevistas del segmento objetivo administradores de empresas <br/> - Realizó el User Persona y User Task Matrix del segmento objetivo administradores de empresas <br/> - Realizó el As-Is Scenario Map y To-Be Scenario Map del segmento objetivo administradores de empresas <br/> - Realizó el ubiquitous language del segmento administradores de empresas <br/> - Realizó la sección Software Development Environment Configuration y Source Code Management <br/>| Celda 1,3 |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Ruben Velasquez Chambi**<br>**TB1**<br>Realizó el diagrama de clases del negocio haciendo uso de UML.<br>Realizó los user stories y tecnical stories.<br> <br> **Fabrizio Alexander Cutiri Agüero** <br/> **TB1** <br/> - Realizó las 3 entrevistas del segmento objetivo administradores de empresa <br/> - Implementó la sección Functionality de la Landing Page <br/> - Realizó el diagrama de base de datos en Vertabelo <br/>| Celda 2,3 |
