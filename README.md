@@ -50,6 +50,23 @@ Link de Landing page[GitGub Landing page](https://github.com/Cyber-Savants/easyf
 **Reporte de la elaboracion de la TB1**
 Durante la TB1, nos dedicamos a la documentación exhaustiva de nuestro proyecto. Esto incluyó tanto una explicación detallada y las evidencias en las que nos basamos, como la especificación de las funcionalidades previstas para nuestra aplicación web. Además, colaboramos en la creación de una landing page diseñada para convertir a los visitantes en clientes potenciales. Este proceso implicó la elaboración conjunta del informe y landing page
 
+##### Repositorio Landing Page
+**Pulse**
+
+![pulse-landing](/assets/img/logo/pulse-landing.jpeg)
+
+**Contribuidor**
+
+![contribuidor-landing](/assets/img/logo/contribuidor-landing.png)
+
+##### Repositorio Informe
+**Pulse**
+
+![pulse-infomre](/assets/img/logo/pulse-informe.jpeg)
+
+**Contribuidor**
+
+![contribuidor-informe](/assets/img/logo/contribuidor-informe.png)
 ### Contenido
 
 # Índice
