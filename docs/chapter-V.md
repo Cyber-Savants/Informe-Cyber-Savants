@@ -349,13 +349,95 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 </table>
 
 ## 5.2.1.3. Development Evidence for Sprint Review.
-| Columna 1 | Columna 2 | Columna 3 | Columna 4 | Columna 5 | Columna 6 |
-|-----------|-----------|-----------|-----------|-----------|-----------|
-| Celda 1,1 | Celda 1,2 | Celda 1,3 | Celda 1,4 | Celda 1,5 | Celda 1,6 |
-| Celda 2,1 | Celda 2,2 | Celda 2,3 | Celda 2,4 | Celda 2,5 | Celda 2,6 |
-| Celda 3,1 | Celda 3,2 | Celda 3,3 | Celda 3,4 | Celda 3,5 | Celda 3,6 |
-| Celda 4,1 | Celda 4,2 | Celda 4,3 | Celda 4,4 | Celda 4,5 | Celda 4,6 |
-| Celda 5,1 | Celda 5,2 | Celda 5,3 | Celda 5,4 | Celda 5,5 | Celda 5,6 |
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/Cyber-Savants/easyfood-landing-page  </td>
+    <td align="center"> main</td>
+    <td align="center"> 904fb792cdd</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 06/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/header</td>
+    <td align="center" > 2b123c7ef01da7be50ff10b16333314c7eb4edca</td>
+    <td align="center"> feat: Added navigation bar for desktop version</td>
+    <td align="center"> ---</td>
+    <td align="center"> 06/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center"> b9fe1e0fbe354f7e50f61fcd1ad45b25f35a7e64</td>
+    <td align="center"> feat: Added navigation bar for mobile version dynamically</td>
+    <td align="center"> ---</td>
+    <td align="center"> 06/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/header</td>
+    <td align="center"> 1db188945863825746d51d13f46821f7b71b774d
+</td>
+    <td align="center"> feat: Navigation bar completed</td>
+    <td align="center"> ---</td>
+    <td align="center">06/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/hero</td>
+    <td align="center"> 63ed5cdf1cab24461645f2ea990ef6db545f2b91</td>
+    <td align="center"> feat: Added hero section and updated menu colors</td>
+    <td align="center"> ---</td>
+    <td align="center"> 07/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/functionality</td>
+    <td align="center"> 521f98010aaccfc58c99a007ae94709e3c99d05e</td>
+    <td align="center"> feat: Added functionality section</td>
+    <td align="center"> ---</td>
+    <td align="center"> 10/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/functionality</td>
+    <td align="center"> 985e09433c9a372b35497012d29ab5ec291a9ee8</td>
+    <td align="center"> chore:update functionality</td>
+    <td align="center"> ---</td>
+    <td align="center"> 10/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/about-us</td>
+    <td align="center"> fb47e0fd1e3ffcebcb2124421b9395103244399b</td>
+    <td align="center"> feat: about-us section completed
+</td>
+    <td align="center"> ---</td>
+    <td align="center"> 09/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> feature/footer</td>
+    <td align="center"> bcbec7d3822d9e10527c29e7cb4f78ca6b38964a
+
+</td>
+    <td align="center"> feat: footer section completed</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
+ 
+
+</table>
 
 
 ## 5.2.1.4. Testing Suite Evidence for Sprint Review.
