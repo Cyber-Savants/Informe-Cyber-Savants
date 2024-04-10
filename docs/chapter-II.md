@@ -163,6 +163,27 @@ De las entrevistas realizadas a este segmento se obtuvo los siguientes resultado
 
 * El 100% de los entrevistados están dispuestos a realizar sus pedidos por una aplicación que brinda descuentos siempre y cuando no presenten problemas en la atención y entrega del pedido.
 
+**Segmento Objetivo:** Restaurantes
+
+De las entrevistas realizadas para este segmento objetivo se obtuvieron los siguientes datos.
+
+* El 66,6% de los entrevistados recibe menos clientes de los esperados, mientras que el 33,3% restante está satisfecho con los clientes que recibe.
+
+* El 66,6% de los entrevistados recibe pedidos para recogerlos en su local, mientras que el 33,3% restante hace servicio de delivery.
+
+* El 100% de los entrevistados afirma que suelen vender casi todos los platos del menú.
+
+* El 100% de los entrevistados basa el precio de sus platillos en el costo de los ingredientes e insumos.
+
+* El 100% de los entrevistados no usa un programa o software para hacer el control de sus inventarios.
+
+* El 66,6% de los entrevistados llevan el control de asistencia de sus empleados.
+
+* El 100% de los entrevistados realizan publicidad de su negocio para atraer a más clientes.
+
+* El 66,6% de los entrevistados relatan que no les fue fácil lidiar con una cantidad alta de pedidos de manera repentina, mientras que el 33,3% restante indica que no le resultó difícil cumplir con una alta cantidad de órdenes. 
+
+* El 100% de los entrevistados afirma poder gestionar una alta cantidad de pedidos por parte de una empresa, pero con el previo conocimiento de la cantidad de productos que se necesitará para satisfacer la demanda.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
