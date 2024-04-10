@@ -155,14 +155,17 @@ La representación mediante wireframes de nuestra app web se basa en las seccion
 
 **Registrate:** En esta sección el usuario podrá registrarse en nuestra web site.
 
+![Register](../assets/img/chapter-IV/Register.png) 
 
+![Register-Success](../assets/img/chapter-IV/Register-Success.png) 
 
 **Planes:** En esta sección el usuario podrá elegir qué plan desea utilizar para su empresa y podrá rellenar los datos de pago. 
 
-
+![Plans](../assets/img/chapter-IV/Planes-Pay.png) 
 
 **Ordenar:** Para esta sección el usuario que desee ordenar comida para él o sus compañeros solo tendrá que seleccionar el almuerzo y bebida que desee.
 
+![Order](../assets/img/chapter-IV/Order-Pay.png) 
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
@@ -171,9 +174,24 @@ La representación mediante wireframes de nuestra app web se basa en las seccion
 
 Usando una paleta de colores definida, así sería nuestro concepto de mock-ups de la app web:
 * **Registro:**
+
+![Mock-Up-Register-Sign up](../assets/img/chapter-IV/Mock-Up-Register-Sign-up.png) 
+  
 * **Mi Perfil:**
+
+![Mock-Up](../assets/img/chapter-IV/Mock-Up-Usuario.png)
+
 * **Plan de Suscripción:**
+
+![Mock-Up-Plans-Buy](../assets/img/chapter-IV/Mock-Up-Plans-Buy.png) 
+
+* **Historial de Pedidos**
+
+![Mock-Up-History](../assets/img/chapter-IV/Mock-Up-History.png) 
+
 * **Ordena tu pedido:**
+
+![Mock-Up-Order-Buy](../assets/img/chapter-IV/Mock-Up-Order-buy.png) 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
