@@ -124,7 +124,19 @@
 
 <p style="text-align:justify;">Por último, la entrevistada menciona que presentaba algunos inconvenientes, como la confusión del pedido, pero se resolvía fácilmente, ya que los restaurantes estaban cerca de la empresa. Además, la entrevistada nos indicó que estaría dispuesta a realizar sus pedidos con descuentos por una aplicación, pero tendría que analizar que sea segura, ya que escucho de aplicaciones como Rappi, donde se pierden los pedidos o que nunca llegan.</p>
 
-#### Segmento Objetivo: Empresas que brindan almuerzo a sus empleados
+#### Segmento Objetivo de Restaurantes
+
+**Entrevista 1: Josué David Arrunategui Aguilar**
+**Datos del Entrevistado:**
+![Restaurant-Segment-Interview-2](/assets/img/chapter-II/Restaurant-Segment-Interview-2.png)
+**Nombre:** Josué David Arrunategui Aguilar
+**Edad:** 20
+**Ocupación:** Ayudante de cocina
+**Ubicación de la Empresa:** Chorrillos 
+**Resumen de la Entrevista:**
+<p style="text-align:justify">En la entrevista Josué menciona que trabaja en el restaurante familiar como ayudante de cocina, nos comenta que da menú alrededor de 35 a 40 platos por día, tiene como objetivo tener un ligero incremento en cuanto a las ventas. Normalmente suelen vender todos los platos del menú. En cuanto al proceso de entrega de los pedidos, usan un sistema un tanto analógico para listar las órdenes y entregarlas que consiste en que el cliente una vez ordenado su menú, ellos anotan todo en posits que son entregados en la cocina y servidos para enviarlos. Por otro lado, las únicas estrategias que utilizan para dar a conocer su negocio es hacer publicaciones por redes sociales como instagram y facebook. 
+Por último, están convencidos que podrían gestionar una demanda de menús elevada por parte de empresas y que confiesa que si pudieran tener un sistema que les ayude a gestionar sus procesos podrían crecer significativamente.
+
 
 **Entrevista 3:  Marin Cuevas Perales**
 ![Restaurant-Segment-Interview-3](/assets/img/chapter-II/Restaurant-Segment-Interview-3.png)
