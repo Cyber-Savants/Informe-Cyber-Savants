@@ -173,9 +173,10 @@ La representación mediante wireframes de nuestra app web se basa en las seccion
 ### 4.4.2. Web Applications Mock-ups.
 
 Usando una paleta de colores definida, así sería nuestro concepto de mock-ups de la app web:
+
 * **Registro:**
 
-![Mock-Up-Register-Sign up](../assets/img/chapter-IV/Mock-Up-Register-Sign-up.png) 
+![Mock-Up-Register-Sign-up](../assets/img/chapter-IV/Mock-Up-Register-Sing-up.png) 
   
 * **Mi Perfil:**
 
@@ -191,7 +192,7 @@ Usando una paleta de colores definida, así sería nuestro concepto de mock-ups 
 
 * **Ordena tu pedido:**
 
-![Mock-Up-Order-Buy](../assets/img/chapter-IV/Mock-Up-Order-buy.png) 
+![Mock-Up-Order-buy](../assets/img/chapter-IV/Mock-Up-Order-buy.png) 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
