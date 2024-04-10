@@ -2,7 +2,7 @@
 ----
 ## 5.1. Software Configuration Management.
 
-## 5.1.1. Software Development Environment Configuration.
+### 5.1.1. Software Development Environment Configuration.
 En este apartado se indicará los nombres de todos los productos de software a utilizar durante el desarrollo del proyecto, así como las rutas de referencia o descarga de estas. 
 
 Para ello, se organizará la información considerando el tipo de actividades realizadas durante el ciclo de vida del proyecto, siendo la estructura de esta forma:
@@ -49,7 +49,7 @@ Para ello, se organizará la información considerando el tipo de actividades re
 * **Markdown:** Este es un lenguaje de marcado ligero, el cual nos permite documentar proyectos. En cuanto a nosotros, utilizamos este lenguaje para redactar el informe de nuestro proyecto y en los archivos README en el repositorio de la organización. Puedes aprender Markdown mediante [este enlace](https://markdown.es/sintaxis-markdown/).
 
 
-## 5.1.2. Source Code Management.
+### 5.1.2. Source Code Management.
 
 En esta sección se detalla qué medios se utilizaron para el seguimiento de las modificaciones, así como la semántica y nomenclatura que se usará para los commits y releases que se implementarán durante el avance del proyecto.
 
@@ -114,9 +114,28 @@ Este es un conjunto de reglas, las cuales deben seguir nuestros commits para cre
 * **body:** Este es un campo opcional en el cual se detalla más información sobre el commit, como el motivo del cambio. 
 * **footer:** Este es un campo opcion y se utiliza para informar respecto a cambios importantes en el proyecto
 
-## 5.1.3. Source Code Style Guide & Conventions.
+### 5.1.3. Source Code Style Guide & Conventions.
 
-## 5.1.4. Software Deployment Configuration.
+### 5.1.4. Software Deployment Configuration.
+
+<p>Como se mencionó en un punto anterior, el código fuente se administra mediante GitHub. También utilizaremos GitHub Pages para desplegar la Landing Page.</p>
+
+![Landing-Repository](/assets/img/chapter-V/landing-repository.png)
+
+<p>Para desplegar la Landing Page de manera local descargamos el zip, o podemos clonar el repositorio con la herramienta git y el comando</p>
+
+![Landing-Dowload](/assets/img/chapter-V/landing-dowload.png)
+![Git-Logo](/assets/img/chapter-V/git-logo.png)
+
+<p>Desde el IDE de nuestra preferencial (para muestras de ejemplo se usará Visual Studio Code) seleccionamos la opción “Open Folder” y ubicamos la carpeta donde guardamos el repositorio y abrimos a carpeta.</p>
+
+![Open-Folder](/assets/img/chapter-V/open-folder.png)
+![Selección-Carpeta](/assets/img/chapter-V/selección-carpeta.png)
+
+<p>Una vez posicionados en el archivo “index.html” vamos a la opción “Run” y le demos a Start Debugging, o podemos usar el atajo de tecla F5 para comenzar a correr el programa.</p>
+
+![Run-Option](/assets/img/chapter-V/run-option.png)
+
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
@@ -128,7 +147,7 @@ Repositorio Github: https://github.com/Cyber-Savants/easyfood-landing-page
 Landing page desplegada:
 
 
-## 5.2.1.1. Sprint Planning 1.
+### 5.2.1.1. Sprint Planning 1.
 Para el primer sprint el equipo establecio que el desarrollo de las tareas serian unas 19 horas.
 
 <table>
@@ -348,7 +367,7 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 </table>
 
-## 5.2.1.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 | Columna 1 | Columna 2 | Columna 3 | Columna 4 | Columna 5 | Columna 6 |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | Celda 1,1 | Celda 1,2 | Celda 1,3 | Celda 1,4 | Celda 1,5 | Celda 1,6 |
@@ -358,22 +377,22 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 | Celda 5,1 | Celda 5,2 | Celda 5,3 | Celda 5,4 | Celda 5,5 | Celda 5,6 |
 
 
-## 5.2.1.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-## 5.2.1.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
-## 5.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-## 5.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-## 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews.
 
-## 5.3.1. Diseño de Entrevistas.
+### 5.3.1. Diseño de Entrevistas.
 
-## 5.3.2. Registro de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
 
-## 5.3.3. Evaluaciones según heurísticas.
+### 5.3.3. Evaluaciones según heurísticas.
 
 ## 5.4. Video About-the-Product.
