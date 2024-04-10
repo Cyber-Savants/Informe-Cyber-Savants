@@ -45,6 +45,7 @@ Fecha: **marzo de 2024**.
 Link de la organizacion:[GitHub organizacion CyberSavants](https://github.com/Cyber-Savants)
 Link de reporte:[Github reporte](https://github.com/Cyber-Savants/Informe-Cyber-Savants)
 Link de Landing page[GitGub Landing page](https://github.com/Cyber-Savants/easyfood-landing-page)
+[Link del Despliegue de la lading Page]() 
 
 **Reporte de la elaboracion de la TB1**
 Durante la TB1, nos dedicamos a la documentación exhaustiva de nuestro proyecto. Esto incluyó tanto una explicación detallada y las evidencias en las que nos basamos, como la especificación de las funcionalidades previstas para nuestra aplicación web. Además, colaboramos en la creación de una landing page diseñada para convertir a los visitantes en clientes potenciales. Este proceso implicó la elaboración conjunta del informe y landing page
