@@ -28,12 +28,17 @@ Fecha: **marzo de 2024**.
 
 | Versión   | Fecha       | Autor     | Descripción de modificación |
 |-----------|-------------|-----------|-----------------------------|
-|           |             |           |                             |
-|           |             |           |                             |
-|           |             |           |                             |
-|           |             |           |                             |
-|           |             |           |                             |
-|           |             |           |                             |
+|   1.0.0   |27/03/2024   | Ruben Velasquez Chambi| Se creo la estructura del proyecto y la caratula|
+|  1.0.1    | 28/03/2024 | Ruben Velasquez Chambi | Descripcion de los integrantes|
+|   1.0.2   | 28/03/2024  |Ruben Veasquez Chambi | Problematica asiendo uso de 5W's y 2H's|
+|   1.0.3  | 04/04/2024   |Ruben Velasquez Chambi | As-is Scenario mapping|
+|   1.0.4 | 04/04/2024 | Ruben Velasquez Chambi  | Tabla de las epics   |
+|  1.0.5  |  05/04/2024 | Ruben Velasquez Chambi  | to-be scenario mapping   |
+|  1.0.6 | 05/04/2024   | Ruben Velasquez Chambi | User Stories |
+| 1.0.7 | 09/04/2024 | Ruben Velasquez Chambi | Tecnical stories  |
+| 1.0.8 | 09/04/2024 | Ruben Velasquez Chambi | Wireframe de lading page|
+| 1.0.9 | 09/04/2024 | Ruben Velasquez Chambi | mock-up de lading  page | 
+|1.1.1 |  10/04/2024| Ruben Velasquez Chambi | Documentacion de sprint 1 |
         
 ### Project Report Collaboration Insights.
 
