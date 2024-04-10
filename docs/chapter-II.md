@@ -67,12 +67,14 @@
 
 **Datos del Entrevistado:**
 
-**Nombre:** Luis Dario Cutiri Chinchay
-**Edad:** 54
-**Ocupación:** Empresario en el sector de Metal Mecánica
-**Ubicación de la Empresa:** Parque Industrial - Villa El Salvador
+* **Nombre:** Luis Dario Cutiri Chinchay
+* **Edad:** 54
+* **Ocupación:** Empresario en el sector de Metal Mecánica
+* **Ubicación de la Empresa:** Parque Industrial - Villa El Salvador
 
-**Duración de la entrevista:** [00:00:07 - 00:06:09]
+* **Duración de la entrevista:** [00:00:07 - 00:06:09]
+* **Video de las entrevistas:** [Needfinding-interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111041_upc_edu_pe/EeqYMjStlX1LrwzhPKZ-jMsBLELNLLmMMaUWMyL60nlWvQ)
+
 
 **Resumen de la Entrevista:**
 
@@ -87,12 +89,13 @@
 
 **Datos del Entrevistado:**
 
-**Nombre:** Raquel Agüero Sulca
-**Edad:** 51
-**Ocupación:** Administradora de un Taller de Confecciones
-**Ubicación de la Empresa:** Chorrillos
+* **Nombre:** Raquel Agüero Sulca
+* **Edad:** 51
+* **Ocupación:** Administradora de un Taller de Confecciones
+* **Ubicación de la Empresa:** Chorrillos
 
-**Duración de la entrevista:** [00:06:10 - 00:11:47]
+* **Duración de la entrevista:** [00:06:10 - 00:11:47]
+* **Video de las entrevistas:** [Needfinding-interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111041_upc_edu_pe/EeqYMjStlX1LrwzhPKZ-jMsBLELNLLmMMaUWMyL60nlWvQ)
 
 **Resumen de la Entrevista:**
 
@@ -107,12 +110,14 @@
 
 **Datos del Entrevistado:**
 
-**Nombre:** Paola Selene Lastres Hernández
-**Edad:** 37
-**Ocupación:** Administradora de una empresa importadora
-**Ubicación de la Empresa:** Chorrillos - Guardia Civil
+* **Nombre:** Paola Selene Lastres Hernández
+* **Edad:** 37
+* **Ocupación:** Administradora de una empresa importadora
+* **Ubicación de la Empresa:** Chorrillos - Guardia Civil
 
-**Duración de la entrevista:** [00:11:48 - 00:20:21]
+* **Duración de la entrevista:** [00:11:48 - 00:20:21]
+* **Video de las entrevistas:** [Needfinding-interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111041_upc_edu_pe/EeqYMjStlX1LrwzhPKZ-jMsBLELNLLmMMaUWMyL60nlWvQ)
+
 
 **Resumen de la Entrevista:**
 
@@ -129,11 +134,15 @@
 **Entrevista 1: Josué David Arrunategui Aguilar**
 **Datos del Entrevistado:**
 ![Restaurant-Segment-Interview-2](/assets/img/chapter-II/Restaurant-Segment-Interview-2.png)
-**Nombre:** Josué David Arrunategui Aguilar
-**Edad:** 20
-**Ocupación:** Ayudante de cocina
-**Ubicación de la Empresa:** Chorrillos 
-**Resumen de la Entrevista:**
+
+* **Nombre:** Josué David Arrunategui Aguilar
+* **Edad:** 20
+* **Ocupación:** Ayudante de cocina
+* **Ubicación de la Empresa:** Chorrillos 
+* **Duración de la entrevista:** [00:20:25 - 00:30:51]
+* **Video de las entrevistas:** [Needfinding-interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111041_upc_edu_pe/EeqYMjStlX1LrwzhPKZ-jMsBLELNLLmMMaUWMyL60nlWvQ)
+
+* **Resumen de la Entrevista:**
 <p style="text-align:justify">En la entrevista Josué menciona que trabaja en el restaurante familiar como ayudante de cocina, nos comenta que da menú alrededor de 35 a 40 platos por día, tiene como objetivo tener un ligero incremento en cuanto a las ventas. Normalmente suelen vender todos los platos del menú. En cuanto al proceso de entrega de los pedidos, usan un sistema un tanto analógico para listar las órdenes y entregarlas que consiste en que el cliente una vez ordenado su menú, ellos anotan todo en posits que son entregados en la cocina y servidos para enviarlos. Por otro lado, las únicas estrategias que utilizan para dar a conocer su negocio es hacer publicaciones por redes sociales como instagram y facebook. 
 Por último, están convencidos que podrían gestionar una demanda de menús elevada por parte de empresas y que confiesa que si pudieran tener un sistema que les ayude a gestionar sus procesos podrían crecer significativamente.
 
@@ -143,12 +152,14 @@ Por último, están convencidos que podrían gestionar una demanda de menús ele
 
 **Datos del Entrevistado:**
 
-**Nombre:** Marin Walter Cuevas Perales
-**Edad:** 24
-**Ocupación:** Estudiante
-**Ubicación de la Empresa:** Provincia en la sierra
+* **Nombre:** Marin Walter Cuevas Perales
+* **Edad:** 24
+* **Ocupación:** Estudiante
+* **Ubicación de la Empresa:** Provincia en la sierra
 
-**Duración de la entrevista:** [00:35:47 - 00:43:05]
+* **Duración de la entrevista:** [00:35:47 - 00:43:05]
+* **Video de las entrevistas:** [Needfinding-interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111041_upc_edu_pe/EeqYMjStlX1LrwzhPKZ-jMsBLELNLLmMMaUWMyL60nlWvQ)
+
 
 **Resumen de la Entrevista:**
 <p style="text-align:justify">En la entrevista realizada a Marín, que anteriormente ayudaba en el negocio de restaurante familiar, nos menciona que llegaba a obtener un promedio de 40 clientes, teniendo como meta llegar a 60 clientes. El negocio no hacía delivery, pero aun así se solía vender casi todo, sobrando menos de 5 raciones de todos los platillos. Para crear su menú lo que tomaba en cuenta era principalmente el costo de los ingredientes y la calidad del producto. También nos menciona que el proceso de recepción de un pedido era anotado en un post-it que se llevaba a la cocina y se preparaba. No usaban ningún software para el control de inventario ni el control de asistencia de los empleados. Con respecto a la publicidad, ya que el negocio se encontraba en un pueblo no muy grande en la sierra, a lo mucho hacía anuncios en la radio. Por último, menciona que sí podrían satisfacer la demanda de platillos para una empresa siempre y cuando se sepa la cantidad que se requiere preparar para hacerlo con anticipación.</p>
