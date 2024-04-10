@@ -169,7 +169,7 @@ La representación mediante wireframes de nuestra app web se basa en las seccion
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-
+![Order](../assets/img/chapter-IV/Wireflow-Diagram.png)
 ### 4.4.2. Web Applications Mock-ups.
 
 Usando una paleta de colores definida, así sería nuestro concepto de mock-ups de la app web:
