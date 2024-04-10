@@ -53,8 +53,8 @@ Criterio: *La capacidad de funcionar efectivamente en un equipo cuyos miembros j
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Celda 1,2 | Celda 1,3 |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Celda 2,2 | Celda 2,3 |
+| Participa en equipos multidisciplinarios con eficacia eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Ruben Velasquez Chambi**<br> **TB1** <br>Definí el problema de mi proyecto utilizando la técnica de las 5W’s y 2H’s.<br>Elaboré el As-is Scenario map para el segmento objetivo de restaurantes.<br>Realizó el To-be Scenario Map del segmento objetivo de restaurantes.<br>Define las funcionalidades y escenarios a través de Historias de Usuario.<br>Diseño el wireframe de la landing page para que los visitantes se puedan convertir en posibles usuarios.<br>Diseño el mock-up para tener claro el diseño de la landing page <br>Realizó el diagrama de clase haciendo uso de patrones de diseño, como state y abstract factory.<br>Se documentó todo lo relacionado con el sprint 1<br> | Celda 1,3 |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Ruben Velasquez Chambi**<br>**TB1**<br>Realizó el diagrama de clases del negocio haciendo uso de UML.<br>Realizó los user stories y tecnical stories.<br>| Celda 2,3 |
 
 
 # Índice
