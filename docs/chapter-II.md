@@ -192,6 +192,10 @@ De las entrevistas realizadas para este segmento objetivo se obtuvieron los sigu
 
 ![Needfinding-UserPersona-BusinessSegment](/assets/img/chapter-II/Needfinding-UserPersona-BusinessSegment.jpeg)
 
+#### User Persona del Segmento Objetivo de Empresas
+
+![Needfinding-UserPersona-RestaurantSegment](/assets/img/chapter-II/Needfinding-UserPersona-RestauranSegment.png)
+
 ### 2.3.2. User Task Matrix
 
 #### Segmento Objetivo: Empresas que brindan almuerzo a sus empleados
