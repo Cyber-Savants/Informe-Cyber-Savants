@@ -74,3 +74,5 @@ Aqui se describira los user stories de la aplicación web y de la landing page.
 <br>**Segmento Objetivo: Restaurantes**<br>
 ![impact-map-bussiness](/assets/img/chapter-III/Impact-map-restaurantes.png)
 ## 3.4. Product Backlog.
+![product-backlog-part1](/assets/img/chapter-III/Product-backlog-part1.png)
+![product-backlog-part1](/assets/img/chapter-III/Product-backlog-par2.png)
