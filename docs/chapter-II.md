@@ -430,6 +430,58 @@ Indicadores de frecuencia:
     </tbody>
 </table>  
 
+## Segmento objetivo: Restaurantes
+<table>
+    <thead>
+        <tr>
+            <th>Segmento objetivo</th>
+            <th colspan="2">Ernesto Prado - Restaurantes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Tareas</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+        <tr>
+            <td>Aperturar la caja del restaurante</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Supervisar los pedidos del restaurante.</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>   
+        <tr>
+            <td>Registrar los productos que llegan al restaurante.</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Administrar el inventario de producción.</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Hacer promociones de comida del restaurante.</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Preparar los platillos que ofrece el restaurante.</td>
+            <td>Rara vez</td>
+            <td>Alta</td>
+        </tr>    
+        <tr>
+            <td>Llevar un control de las asistencias de los empleados.</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>
+    </tbody>
+</table>  
+
 
 ### 2.3.3. User Journey Mapping
 
