@@ -68,6 +68,9 @@ Aqui se describira los user stories de la aplicación web y de la landing page.
 | HU037 |Obtener Ordenes |Como developer, quiero implementar un API que permita obtener las órdenes realizadas, para garantizar la disponibilidad de estas funcionalidades al integrarlas en la aplicación.| **Scenario: Recepción de pedidos.** <br> **Given**  que el endpoint "/orders" esté disponible <br> **When**  se envíe una solicitud GET para obtener los pedidos <br> **Then**  se debe recibir una respuesta con Estado 200 (OK). <br> **And**  los detalles de los pedidos pendientes deben incluirse en el cuerpo de la respuesta.| EP008|
 
 
-## 3.3. Impact Mapping.
-
+## 3.3. Impact Mapping.<br>
+**Segmento Objetivo: Empresas**<br>
+![impact-map-bussiness](/assets/img/chapter-III/Impact-map-empresas.png)
+<br>**Segmento Objetivo: Restaurantes**<br>
+![impact-map-bussiness](/assets/img/chapter-III/Impact-map-restaurantes.png)
 ## 3.4. Product Backlog.
