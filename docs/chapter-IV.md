@@ -180,7 +180,15 @@ Usando una paleta de colores definida, así sería nuestro concepto de mock-ups 
   
 * **Mi Perfil:**
 
-![Mock-Up](../assets/img/chapter-IV/Mock-Up-Usuario.png)
+![Mock-Up](../assets/img/chapter-IV/Mock-Up-Profile-User.png)
+
+* **Usuario:**
+
+![Mock-Up](../assets/img/chapter-IV/Mock-Up-User.png)
+
+* **Menu Principal**
+
+![Mock-Up](../assets/img/chapter-IV/Mock-Up-Menu.png)
 
 * **Plan de Suscripción:**
 
@@ -193,6 +201,22 @@ Usando una paleta de colores definida, así sería nuestro concepto de mock-ups 
 * **Ordena tu pedido:**
 
 ![Mock-Up-Order-buy](../assets/img/chapter-IV/Mock-Up-Order-buy.png) 
+
+* **Perfil del restaurantes**
+
+![Mock-Up-Order-buy](../assets/img/chapter-IV/Mock-Up-Profile-Restaurant.png) 
+
+* **Menu del restaurante**
+
+![Mock-Up-Order-buy](../assets/img/chapter-IV/Mock-Up-Menu-Restaurant.png) 
+
+* **Stock del restaurante**
+
+![Mock-Up-Order-buy](../assets/img/chapter-IV/Mock-Up-Stock.png) 
+
+* **Editar  carta de menú del restaurante**
+
+![Mock-Up-Order-buy](../assets/img/chapter-IV/Mock-Up-Edit-Menu.png) 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
