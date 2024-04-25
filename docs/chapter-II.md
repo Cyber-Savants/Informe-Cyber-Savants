@@ -84,7 +84,12 @@
             </tr>
             <tr>
                 <td colspan="2">Precio & Costos  </td>
-                <td colspan="2">.....</td>
+                <td colspan="2">Planes empresas: 
+                Pequeño - s/12000
+                Mediano - s/58000
+                Plan restaurante: 
+                Restaurante - s/900
+                </td>
                 <td colspan="2">Planes de suscripción desde S/15.50 x día.</td>
                 <td colspan="2">Plan de suscripción desde 8,33 US$.</td>
                 <td colspan="2">Costo mínimo del pedido es de 20€ y el precio de los platos de 6 a 9€.</td>
