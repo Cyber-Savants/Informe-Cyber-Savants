@@ -169,7 +169,38 @@ La representación mediante wireframes de nuestra app web se basa en las seccion
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-![Order](../assets/img/chapter-IV/Wireflow-Diagram.png)
+
+UH004: Actualizar información de la cuenta
+* Como usuario, necesito la capacidad de actualizar fácilmente mis datos de perfil para garantizar que la información asociada con mi cuenta esté siempre actualizada y precisa.
+
+El usuario podrá verificar sus datos personales y el historial de pedidos que ha tenido en su cuenta.
+
+![Wireframe-Flow](../assets/img/chapter-IV/Actualizar-datos.png) 
+
+UH010: Actualización de menú diario
+* Como administrador del restaurante afiliado, quiero tener la capacidad de actualizar rápidamente el menú diario en la plataforma, para garantizar que los clientes corporativos tengan acceso a información 
+  actualizada sobre las opciones de almuerzo.
+
+El administrador del restaurante podrá entrar a la sección de creación de nuevo menú y en este apartado lograra subir el nuevo menú que desee colocar. 
+
+![Wireframe-Flow](../assets/img/chapter-IV/Nuevo-menu.png) 
+
+UH018: Acceso a análisis y métricas generales del negocio
+* Como administrador del restaurante afiliado, quiero tener la capacidad de acceder a métricas del negocio a través de la plataforma, como las ventas totales generadas y el promedio de pedidos diarios realizados, para comprender mejor el rendimiento de mi restaurante y tomar decisiones informadas.
+
+El administrador podrá acceder a los análisis para que pueda ver como van la ventas de sus platillos, los clientes más frecuentes y el historial que ha tenido cada cliente.
+
+
+![Wireframe-Flow](../assets/img/chapter-IV/Analisis-de-Negocio.png) 
+
+UH028: Acceso a Información de Beneficios y Planes
+* Como visitante interesado en la plataforma, quiero poder acceder fácilmente a información detallada sobre los beneficios de utilizar el servicio y los planes de suscripción disponibles, para comprender rápidamente el valor y las opciones que ofrece la plataforma.
+
+El visitante podrá ver los planes que ofrecemos y los beneficios que trae nuestra el uso de nuestro servicio.
+
+![Wireframe-Flow](../assets/img/chapter-IV/Plans-benefits.png) 
+
+
 ### 4.4.2. Web Applications Mock-ups.
 
 Usando una paleta de colores definida, así sería nuestro concepto de mock-ups de la app web:
@@ -220,35 +251,6 @@ Usando una paleta de colores definida, así sería nuestro concepto de mock-ups 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-UH004: Actualizar información de la cuenta
-* Como usuario, necesito la capacidad de actualizar fácilmente mis datos de perfil para garantizar que la información asociada con mi cuenta esté siempre actualizada y precisa.
-
-El usuario podrá verificar sus datos personales y el historial de pedidos que ha tenido en su cuenta.
-
-![Wireframe-Flow](../assets/img/chapter-IV/Actualizar-datos.png) 
-
-UH010: Actualización de menú diario
-* Como administrador del restaurante afiliado, quiero tener la capacidad de actualizar rápidamente el menú diario en la plataforma, para garantizar que los clientes corporativos tengan acceso a información 
-  actualizada sobre las opciones de almuerzo.
-
-El administrador del restaurante podrá entrar a la sección de creación de nuevo menú y en este apartado lograra subir el nuevo menú que desee colocar. 
-
-![Wireframe-Flow](../assets/img/chapter-IV/Nuevo-menu.png) 
-
-UH018: Acceso a análisis y métricas generales del negocio
-* Como administrador del restaurante afiliado, quiero tener la capacidad de acceder a métricas del negocio a través de la plataforma, como las ventas totales generadas y el promedio de pedidos diarios realizados, para comprender mejor el rendimiento de mi restaurante y tomar decisiones informadas.
-
-El administrador podrá acceder a los análisis para que pueda ver como van la ventas de sus platillos, los clientes más frecuentes y el historial que ha tenido cada cliente.
-
-
-![Wireframe-Flow](../assets/img/chapter-IV/Analisis-de-Negocio.png) 
-
-UH028: Acceso a Información de Beneficios y Planes
-* Como visitante interesado en la plataforma, quiero poder acceder fácilmente a información detallada sobre los beneficios de utilizar el servicio y los planes de suscripción disponibles, para comprender rápidamente el valor y las opciones que ofrece la plataforma.
-
-El visitante podrá ver los planes que ofrecemos y los beneficios que trae cada uno de los ellos.
-
-![Wireframe-Flow](../assets/img/chapter-IV/Plans.png) 
 
 
 ### 4.5. Web Applications Prototyping.
