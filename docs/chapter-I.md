@@ -1,6 +1,7 @@
 # Chapter I : Introducción
 ---
 ## 1.1. Startup Profile
+Seguidamente, explicaremos a lo que se dedica nuestra empresa "Cyber Savans", así como la prensetación del equipo que la integra y expondremos la propuesta de solución "Easy Food".
 
 Somos Cyber Savants, un grupo de estudiantes de Ingeniería de Software y Ciencias de la Computación de la Universidad Peruana de Ciencias Aplicadas(UPC). Nosotros buscamos proporcionar el uso de tecnologías nuevas, mediante una aplicación que le brindará a los usuarios que puedan obtener diferentes menús mediante un plan de suscripción.
 
@@ -280,6 +281,9 @@ Creemos que, si utilizamos un mapa para mostrar los restaurantes afiliados a la 
 
 
 ## 1.3. Segmentos objetivo.
+Nuestro publico objetivo son los restaurantes que desean ampliar su clientela y mejorar sus operaciones utilizando un sistema de suscripción digital. Además, atendemos a empresas que quieren ofrecer a sus empleados una variedad de alimentos de calidad y nos asociamos con restaurantes de confianza para brindar estos servicios. Nuestro enfoque permite a los restaurantes aumentar las ganancias y ampliar su alcance, mientras que las empresas optimizan los beneficios para sus colaboradores.
+
+Dentro de nuestros usuarios, encontramos dos perfiles distintos:
 
 -Restaurantes interesados en expandir su clientela y optimizar sus operaciones a través de un sistema digital de suscripciones.
 
