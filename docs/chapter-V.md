@@ -645,7 +645,7 @@ Para el desarrollo de este sprint 2 el equipo se enfoco en el desarrollo de el f
 
 # 5.2.2.2.Sprint Backlog 2.
 
-# 5.2.2.3.Development Evidence for Sprint Review. yo
+# 5.2.2.3.Development Evidence for Sprint Review.
 
 <table>
   <tr>
