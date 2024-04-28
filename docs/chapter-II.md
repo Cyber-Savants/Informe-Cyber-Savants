@@ -141,8 +141,7 @@
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-* Para que nuestra startup pueda sobresalir en el mercado de comidas personalizadas para empresas, es crucial que podamos enfocarnos en la diferenciación del producto mediante un sistema avanzado de personalización 
-y una amplia variedad de opciones de menú de calidad. Además, tomamos en cuenta priorizar la excelencia en la experiencia del cliente, ofreciendo un servicio excepcional y una plataforma fácil de usar. Establecer alianzas estratégicas con empresas del sector para mantener un ambiente competitivo. Asimismo, una sólida estrategia de marketing y promoción, junto con una continua innovación de servicios.
+* Para que nuestra startup pueda sobresalir en el mercado de comidas personalizadas para empresas, es crucial que podamos enfocarnos en la diferenciación del producto mediante un sistema avanzado de personalización y una amplia variedad de opciones de menú de calidad. Además, tomamos en cuenta priorizar la excelencia en la experiencia del cliente, ofreciendo un servicio excepcional y una plataforma fácil de usar. Establecer alianzas estratégicas con empresas del sector para mantener un ambiente competitivo. Asimismo, una sólida estrategia de marketing y promoción, junto con una continua innovación de servicios.
 
 
 ## 2.2. Entrevistas
