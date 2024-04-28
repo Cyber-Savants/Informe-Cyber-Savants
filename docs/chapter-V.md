@@ -428,14 +428,101 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
   <tr>
     <td align="center"> feature/footer</td>
-    <td align="center"> bcbec7d3822d9e10527c29e7cb4f78ca6b38964a
-
-</td>
+    <td align="center"> bcbec7d3822d9e10527c29e7cb4f78ca6b38964a</td>
     <td align="center"> feat: footer section completed</td>
     <td align="center"> ---</td>
     <td align="center">10/04/2024</td>
   </tr>
+
+  <tr>
+    <td align="center"> feature/funcionality</td>
+    <td align="center"> 521f98010aaccfc58c99a007ae94709e3c99d05e</td>
+    <td align="center"> feat: Added functionality section</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
  
+  <tr>
+    <td align="center">feature/funcionality</td>
+    <td align="center"> 985e09433c9a372b35497012d29ab5ec291a9ee8</td>
+    <td align="center"> chore: update functionality</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/memberships</td>
+    <td align="center"> 788e5f02585bba53f94476345c65776edd9bd916</td>
+    <td align="center"> feat: Added memberships section</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
+
+  
+  <tr>
+    <td align="center">feature/memberships</td>
+    <td align="center"> 9efc08d2d812f7a04e6991fc9ad663f889f5818b</td>
+    <td align="center">chore: update memberships</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/memberships</td>
+    <td align="center"> ad8058fa5f30c903bc964a3c22c9f7582b9fb450</td>
+    <td align="center">chore: update memberships</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
+
+  
+  <tr>
+    <td align="center">feature/memberships</td>
+    <td align="center"> 0e49775044028134fff275e818645887db3aaa73</td>
+    <td align="center">fix:route arrangement</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center"> 0d6315c6ecb43e891c71f88b68906a64492944ec</td>
+    <td align="center">feat: develop merge membership</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center"> c4147fc5bd37f74187035f4b28622c01b3b97a53</td>
+    <td align="center">feat: develop merge about-us</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">develop</td>
+    <td align="center"> 8bd1df049de7602f6de6f7daa728d590ba6880e4</td>
+    <td align="center">feat: develop merge footer</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center"> 7091cb232ce30a12c9ae64ee95c64068829bee25</td>
+    <td align="center">feat: Added Benefits Section</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">develop</td>
+    <td align="center"> b0ca85fc6c7d73f4fb69138967b7d76eeb57f20d</td>
+    <td align="center">feat: landign completed</td>
+    <td align="center"> ---</td>
+    <td align="center">10/04/2024</td>
+  </tr>
 
 </table>
 
