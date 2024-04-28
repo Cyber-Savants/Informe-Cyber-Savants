@@ -868,7 +868,7 @@ En la imagen se aprecia como fue desplegada la Landing Page.
 
 La meta de este sprint fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, HTML, CSS y JavaScript. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo Cyber Savants.
 
-![Commits-landing](/assets/img/chapter-V/commits-landing.png)
+![Commits-landing](/assets/img/chapter-V/Commits-Landing.png)
 La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en la Landing Page.
 
 ![Contribuitors-landing](/assets/img/chapter-V/contribuitors-landing.png)
