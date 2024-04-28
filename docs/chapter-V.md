@@ -808,6 +808,7 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 
 ## 5.2.1.4. Testing Suite Evidence for Sprint Review.
+Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page por lo cual no se requirio pruebas de testing.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
