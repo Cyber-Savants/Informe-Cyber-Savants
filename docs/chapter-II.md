@@ -84,7 +84,12 @@
             </tr>
             <tr>
                 <td colspan="2">Precio & Costos  </td>
-                <td colspan="2">.....</td>
+                <td colspan="2">Planes empresas: 
+                Pequeño - s/12000
+                Mediano - s/58000
+                Plan restaurante: 
+                Restaurante - s/900
+                </td>
                 <td colspan="2">Planes de suscripción desde S/15.50 x día.</td>
                 <td colspan="2">Plan de suscripción desde 8,33 US$.</td>
                 <td colspan="2">Costo mínimo del pedido es de 20€ y el precio de los platos de 6 a 9€.</td>
@@ -135,6 +140,9 @@
 </body>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+* Para que nuestra startup pueda sobresalir en el mercado de comidas personalizadas para empresas, es crucial que podamos enfocarnos en la diferenciación del producto mediante un sistema avanzado de personalización y una amplia variedad de opciones de menú de calidad. Además, tomamos en cuenta priorizar la excelencia en la experiencia del cliente, ofreciendo un servicio excepcional y una plataforma fácil de usar. Establecer alianzas estratégicas con empresas del sector para mantener un ambiente competitivo. Asimismo, una sólida estrategia de marketing y promoción, junto con una continua innovación de servicios.
+
 
 ## 2.2. Entrevistas
 
@@ -426,6 +434,58 @@ Indicadores de frecuencia:
     </tbody>
 </table>  
 
+## Segmento objetivo: Restaurantes
+<table>
+    <thead>
+        <tr>
+            <th>Segmento objetivo</th>
+            <th colspan="2">Ernesto Prado - Restaurantes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Tareas</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+        <tr>
+            <td>Aperturar la caja del restaurante</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Supervisar los pedidos del restaurante.</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>   
+        <tr>
+            <td>Registrar los productos que llegan al restaurante.</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Administrar el inventario de producción.</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Hacer promociones de comida del restaurante.</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Preparar los platillos que ofrece el restaurante.</td>
+            <td>Rara vez</td>
+            <td>Alta</td>
+        </tr>    
+        <tr>
+            <td>Llevar un control de las asistencias de los empleados.</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>
+    </tbody>
+</table>  
+
 
 ### 2.3.3. User Journey Mapping
 
@@ -438,6 +498,10 @@ Indicadores de frecuencia:
 ![User-Journey-Mapping-Restaurant](/assets/img/chapter-II/User-Journey-Mapping-Restaurant.png)
 
 ### 2.3.4. Empathy Mapping
+**Segmento objetivo: empresas**
+![Empathy-map-empresa](/assets/img/chapter-II/EmpathyMap-Empresas.png)
+**Segmento objetivo: restaurantes**
+![Empathy-map-restaurant](/assets/img/chapter-II/EmpathyMap-Restaurantes.png)
 ### 2.3.5. As-is Scenario Mapping
 
 **Segmento de Objetivo:** Administrador de la empresa que brinda almuerzo a sus empleados
