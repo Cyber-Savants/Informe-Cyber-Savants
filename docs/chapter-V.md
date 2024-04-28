@@ -531,6 +531,34 @@ Para el primer sprint el equipo establecio que el desarrollo de las tareas seria
 
 ## 5.2.1.5. Execution Evidence for Sprint Review.
 
+Durante este sprint, el equipo de desarrollo de cyberSavantas se enfocó en la creación de una landing page para nuestro producto "easyfood". La página está diseñada para atraer la atención de los visitantes mediante el uso de colores vibrantes y llamativos botones de "call to action". A continuación, se presentarán capturas de pantalla que explican en detalle la landing page creada.
+
+En la cabecera de nuestra lading pague tendremos una barra de navegacion donde el visitante podra moverse a todas nuestras secciones a traves de un click.
+
+*version desktop:*
+![menu](../assets/img/chapter-V/navbar-easyfood.png)
+
+*version movil:* se puede apreciar que el menu de navegacion tendra una version movil, esto para seguir el principio de responsive
+![menu movil](../assets/img/chapter-V/movil-easy%20food.png)
+
+*Hero o banner* : Esta seccion tendra una frase que llame la atencion del visitante y un boton "call to action" que nos redirigira al apartado de creacion de cuenta.
+![hero](../assets/img/chapter-V/hero-easyfood.png)
+
+*secion de funcionalidad* : En esta seccion se describira como es que funciona nuestra aplicacion a traves de images,para que el visitante tenga una idea clara de las capacidades de la aplicacion.
+![funcionality](../assets/img/chapter-V/funcionality-easyfood.png)
+
+*seccion de beneficios*: En esta seccion se explicara los posibles beneficios de usar nuestra aplicacion.
+![beneficios](../assets/img/chapter-V/beneficios-easyfood.png)
+
+*seccion de planes de suscription*: Se brindara al visitante la informacion de los costos y tipos de planes de suscription.
+![planes](../assets/img/chapter-V/planes-easyfood.png)
+
+*seccion footer*: informacion de contacto y redes.
+![footer](../assets/img/chapter-V/footer-easyfood.png)
+
+
+***Link del video:*** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202117342_upc_edu_pe/EXhxZmsv-MFAjWLjh9ESFGsB708Idi3tPgXDq--KQuc8FQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pinEI1
+
 ## 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 ## 5.2.1.7. Software Deployment Evidence for Sprint Review.
