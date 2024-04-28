@@ -285,6 +285,6 @@ Nuestro publico objetivo son los restaurantes que desean ampliar su clientela y 
 
 Dentro de nuestros usuarios, encontramos dos perfiles distintos:
 
--Restaurantes interesados en expandir su clientela y optimizar sus operaciones a través de un sistema digital de suscripciones.
+1. **Restaurantes** interesados en expandir su clientela y optimizar sus operaciones a través de un sistema digital de suscripciones.
 
--Empresas que necesiten del servicio de los restaurantes para proveer diferentes opciones de comida a sus colaboradores.
+2. **Empresas** que necesiten del servicio de los restaurantes para proveer diferentes opciones de comida a sus colaboradores.
