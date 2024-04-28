@@ -565,12 +565,237 @@ En la cabecera de nuestra lading pague tendremos una barra de navegacion donde e
 
 ## 5.2.1.8. Team Collaboration Insights during Sprint.
 
-## 5.3. Validation Interviews.
 
-## 5.3.1. Diseño de Entrevistas.
+# 5.2.2. Sprint 2
+Para el desarrollo de este sprint 2 el equipo se enfoco en el desarrollo de el front-end de la aplicacion easyFood
+# 5.2.2.1.Sprint Planning 2.
 
-## 5.3.2. Registro de Entrevistas.
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/04/20</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google meet</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Ruben Velasquez Chambi</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                <li>Fabrizio Alexander Cutiri Agüero</li>
+                <li>Omar Christian Berrocal Ramirez</li>
+                <li>Renzo José Araujo Ingunza</li>
+                <li>Sebastian Cordova Valdivia</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                El equipo desarrollo la lading page
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                El equipo estuvo de acuerdo a los cambios 
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>
+                <li> El equipo se reunio para arreglar cosas relacionadas al planteamiento del proyecto</li>
+                <li>Ponerce deacuerdo de las tareas a cumplir para este sprint 2 del lado front-end</li>
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>
+                15
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                15
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-## 5.3.3. Evaluaciones según heurísticas.
+# 5.2.2.2.Sprint Backlog 2.
 
-## 5.4. Video About-the-Product.
+# 5.2.2.3.Development Evidence for Sprint Review. yo
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center">https://github.com/Cyber-Savants/EasyFood-Front-End</td>
+    <td align="center"> main</td>
+    <td align="center">19108fa5e2e39b474412dd2ee319b423fe0b7c88</td>
+    <td align="center"> chore: Created basic Vue.js structure with Vite</td>
+    <td align="center">---</td>
+    <td align="center"> 21/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center" > 81b461f10678703ec91a3208a8ce17506dd167b4</td>
+    <td align="center"> chore: Added basic Vue.js dependencies</td>
+    <td align="center">---</td>
+    <td align="center"> 21/04/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/fake-api</td>
+    <td align="center" > df033c33be5dea193e09604c723246f20b602edb</td>
+    <td align="center"> chore: added json-server dependencies</td>
+    <td align="center"> ---</td>
+    <td align="center"> 21/04/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/fake-api</td>
+    <td align="center" > 85f2f70a1ef4def24179cefad1f87747159215cb</td>
+    <td align="center">feat: added fake-api and routes with json-server</td>
+    <td align="center">--- </td>
+    <td align="center"> 21/04/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/fake-api</td>
+    <td align="center">c9377ce962d28ea7e2221f0fd562d686ddc74916</td>
+    <td align="center">feat: Modify the fake api </td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/04/2024</td>
+  </tr>
+ 
+  <tr>
+    <td align="center">feature/planning</td>
+    <td align="center" > 982bf7a7f2b596ced87e6e76d06b1015ec82b65b</td>
+    <td align="center">feat: Modify data in the fake api</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/04/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/planning</td>
+    <td align="center" > 7fd2c641b79a56f520671013685fbc21a5d99017</td>
+    <td align="center">feat: Add card structure with dummy data</td>
+    <td align="center"> ---</td>
+    <td align="center"> 23/04/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/planning</td>
+    <td align="center" > 609588dcb68103d64f55336dcc53df2540048601</td>
+    <td align="center">feat: created the card structure according to the established design</td>
+    <td align="center"> ---</td>
+    <td align="center"> 24/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/planning</td>
+    <td align="center" > 66bad6ff146c2343539b7ce0b9925814a998908a</td>
+    <td align="center">feat: router configuration for restaurant and menu selection</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/04/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/planning</td>
+    <td align="center" > 94269d701fac07ff153e16a383e9c44f56e1d470</td>
+    <td align="center">feat: resolved the environment variables issue</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/planning</td>
+    <td align="center" > ca7d8bbf6e1daff1f935c755cc72b23b7365ff0a</td>
+    <td align="center">feat: loaded menu data using the fake API</td>
+    <td align="center"> ---</td>
+    <td align="center"> 25/04/2024</td>
+  </tr>
+ 
+   <tr>
+    <td align="center">feature/planning</td>
+    <td align="center" > c006fef9e5af30096ab0ecc88af9e65aa37dbf2b</td>
+    <td align="center">feat: load menu data through the URL without an event action including the restaurant ID</td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/planning</td>
+    <td align="center" > 84309f796b19d91288e4555deb96da3a72dd936b</td>
+    <td align="center">feat: logic for menu selection by restaurant ID, without UI design</td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/04/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/planning</td>
+    <td align="center" > d4eaecabfb39b42698a784d699e46e359a78ca91</td>
+    <td align="center">feat: redesigned cards and flow between restaurant and menu selection pages</td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/04/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/planning</td>
+    <td align="center" > f806d276216894ae2d4f44dca03cfb3fa869d854</td>
+    <td align="center">feat: added category filter for menus</td>
+    <td align="center"> ---</td>
+    <td align="center"> 26/04/2024</td>
+  </tr>
+
+   <tr>
+    <td align="center">feature/planning</td>
+    <td align="center" > bc128fcd428b02cf34812a807fda07fd8283169d</td>
+    <td align="center">feat: completed the design for restaurant and menu selection</td>
+    <td align="center">---</td>
+    <td align="center"> 26/04/2024</td>
+  </tr>
+ 
+ 
+ 
+
+</table>
+
+# 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+
+# 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+# 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+# 5.2.2.8.Team Collaboration Insights during Sprint.
