@@ -1,12 +1,41 @@
 # Chapter IV: Product Design
 ---
 ## 4.1. Style Guidelines.
+Debido a que nuestro proyecto se centra en el sector gastronómico. Hemos decidido que nuestra app muestre un diseño acorde con el estilo de los restaurantes, resaltando los ingredientes más frescos. Mostrando un impacto agradable y sencillo para nuestros clientes.
 
 ## 4.1.1. General Style Guidelines.
+EasyFood se enfoca en facilitar a sus usuarios la gestión y relación entre las empresas que dan pensión a sus empleados y los restaurantes. Por lo que nuestro sistema necesita estar enfocado en mejorar ese proceso desde que la empresa hace los pedidos, pasando por la elaboración de los menús por parte de los restaurantes hasta que finalmente es entregado exitosamente. Usamos tonalidades de colores que recuerdan a los alimentos que se sirven en el restaurante, transmitiendo energía y vitalidad<br>
+**Color**<br>
+![General-Color](../assets/img/chapter-IV/Style-Guide-Color.png) 
+<br>
+- Con respecto al color, se ha seleccionado una paleta de colores que viene en relación al estilo de los platillos ya que muestran tonos frescos y vibrantes que reflejan la variedad y la frescura de los alimentos.
+- Se escogen una gama de degradado en verde con una tonalidad azul para las interfaces del sistema representando confianza y calma. 
+- Se utilizan tonos de verde para representar la naturaleza y la frescura.<br>
 
+**icons**<br>
+![General-Color](../assets/img/chapter-IV/Style-Guide-icons.png)
+<br>
+Como nuestro aplicativo se centra en los restaurantes, empresas y su relación tenemos una serie de íconos que podemos usar en el prototipo del sistema con el fin de hacerlo más interactivo y dentro del contexto del objetivo.<br>
+
+**Font** <br>
+Finalmente, contamos con una fuente en particular para poder desarrollar el aplicativo en uniformidad. Por su forma de letra, espaciado entre caracteres, falta de serifas y flexibilidad utilizaremos el font “Playfair Display”<br>
+![General-Color](../assets/img/chapter-IV/Style-Guide-Font.png)
 ## 4.1.2. Web Style Guidelines.
+Para la apariencia y diseño de la página web, se emplearán las siguientes caracteristicas: <br>
 
-## 4.2. Information Architecture.
+**Tipografía:** 
+Para la información que se proporcionará se usará la fuente **"Montserrat"** y en los encabezados se utilizará la fuente **"Playfair Display"**. 
+En cuanto al tamaño de la fuente en el cuerpo del sitio web será 20px. Mientras que en los encabezados habrá una variación entre 36px y 32px.
+
+**Colores:** <br>
+La paleta de colores que se implementará en nuestra web serán las siguientes: 
+![General-Color](../assets/img/chapter-IV/Style-Guide-Color.png) 
+<br>
+El fondo de pantalla será de color verde de código ”A8D281” para dar mayor visibilidad a los elementos de sitio web. Por otro lado, los botones y demás funcionalidades serán de la gama de colores mostrada
+
+**Contenido:**<br>
+El contenido del sitio web debe ser amigable y comprensible con el usuario, por lo que se usará un lenguaje Casual y respetuoso. 
+En cuanto a las imágenes se utilizarán referenciaciones de los platillos que irán mostrando los restaurantes.
 
 ## 4.2.1. Organization Systems.
 Nuestro equipo Cyber Savant  ha establecido un sistema de organización del contenido que se adapta a las necesidades de los usuarios y facilita la navegación tanto en la experiencia web como en la aplicación móvil. Por ello se han definido los siguientes sistemas de organización: 
@@ -126,29 +155,123 @@ La representación mediante wireframes de nuestra app web se basa en las seccion
 
 **Registrate:** En esta sección el usuario podrá registrarse en nuestra web site.
 
+![Register](../assets/img/chapter-IV/Register.png) 
 
+![Register-Success](../assets/img/chapter-IV/Register-Success.png) 
 
 **Planes:** En esta sección el usuario podrá elegir qué plan desea utilizar para su empresa y podrá rellenar los datos de pago. 
 
-
+![Plans](../assets/img/chapter-IV/Planes-Pay.png) 
 
 **Ordenar:** Para esta sección el usuario que desee ordenar comida para él o sus compañeros solo tendrá que seleccionar el almuerzo y bebida que desee.
 
+![Order](../assets/img/chapter-IV/Order-Pay.png) 
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+UH004: Actualizar información de la cuenta
+* Como usuario, necesito la capacidad de actualizar fácilmente mis datos de perfil para garantizar que la información asociada con mi cuenta esté siempre actualizada y precisa.
+
+El usuario podrá verificar sus datos personales y el historial de pedidos que ha tenido en su cuenta.
+
+![Wireframe-Flow](../assets/img/chapter-IV/Actualizar-datos.png) 
+
+UH010: Actualización de menú diario
+* Como administrador del restaurante afiliado, quiero tener la capacidad de actualizar rápidamente el menú diario en la plataforma, para garantizar que los clientes corporativos tengan acceso a información 
+  actualizada sobre las opciones de almuerzo.
+
+El administrador del restaurante podrá entrar a la sección de creación de nuevo menú y en este apartado lograra subir el nuevo menú que desee colocar. 
+
+![Wireframe-Flow](../assets/img/chapter-IV/Nuevo-menu.png) 
+
+UH018: Acceso a análisis y métricas generales del negocio
+* Como administrador del restaurante afiliado, quiero tener la capacidad de acceder a métricas del negocio a través de la plataforma, como las ventas totales generadas y el promedio de pedidos diarios realizados, para comprender mejor el rendimiento de mi restaurante y tomar decisiones informadas.
+
+El administrador podrá acceder a los análisis para que pueda ver como van la ventas de sus platillos, los clientes más frecuentes y el historial que ha tenido cada cliente.
+
+
+![Wireframe-Flow](../assets/img/chapter-IV/Analisis-de-Negocio.png) 
+
+UH028: Acceso a Información de Beneficios y Planes
+* Como visitante interesado en la plataforma, quiero poder acceder fácilmente a información detallada sobre los beneficios de utilizar el servicio y los planes de suscripción disponibles, para comprender rápidamente el valor y las opciones que ofrece la plataforma.
+
+El visitante podrá ver los planes que ofrecemos y los beneficios que trae nuestra el uso de nuestro servicio.
+
+![Wireframe-Flow](../assets/img/chapter-IV/Plans-benefits.png) 
+
+
 ### 4.4.2. Web Applications Mock-ups.
 
 Usando una paleta de colores definida, así sería nuestro concepto de mock-ups de la app web:
+
 * **Registro:**
+
+![Mock-Up-Register-Sign-up](../assets/img/chapter-IV/Mock-Up-Register-Sing-up.png) 
+  
 * **Mi Perfil:**
+
+![Mock-Up](../assets/img/chapter-IV/Mock-Up-Profile-User.png)
+
+* **Usuario:**
+
+![Mock-Up](../assets/img/chapter-IV/Mock-Up-User.png)
+
+* **Menu Principal**
+
+![Mock-Up](../assets/img/chapter-IV/Mock-Up-Menu.png)
+
 * **Plan de Suscripción:**
+
+![Mock-Up-Plans-Buy](../assets/img/chapter-IV/Mock-Up-Plans-Buy.png) 
+
+* **Historial de Pedidos**
+
+![Mock-Up-History](../assets/img/chapter-IV/Mock-Up-History.png) 
+
 * **Ordena tu pedido:**
+
+![Mock-Up-Order-buy](../assets/img/chapter-IV/Mock-Up-Order-buy.png) 
+
+* **Perfil del restaurantes**
+
+![Mock-Up-Order-buy](../assets/img/chapter-IV/Mock-Up-Profile-Restaurant.png) 
+
+* **Menu del restaurante**
+
+![Mock-Up-Order-buy](../assets/img/chapter-IV/Mock-Up-Menu-Restaurant.png) 
+
+* **Stock del restaurante**
+
+![Mock-Up-Order-buy](../assets/img/chapter-IV/Mock-Up-Stock.png) 
+
+* **Editar  carta de menú del restaurante**
+
+![Mock-Up-Order-buy](../assets/img/chapter-IV/Mock-Up-Edit-Menu.png) 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+HU016: Análisis de popularidad de los platos del menú
+* Como administrador del restaurante afiliado, quiero tener herramientas de análisis que me permitan analizar la popularidad de cada plato en mi menú a lo largo del tiempo, para administrar más recursos en su elaboración
 
+El administrador podrá ingresar al overview de los platos más pedidos por las empresas. 
+
+![UserFlow](../assets/img/chapter-IV/UserFlow-1.png) 
+
+
+HU009: Acceder a Registro de pedidos.
+* Como administrador de la empresa suscrita, quiero poder acceder a un historial completo de pedidos realizados, para tener un registro de las órdenes hechas a cada restaurante y fechas correspondientes.
+
+El administrador de la empresa, desde su perfil tendrá una opción donde le pueda mostrar el historial de pedido que ha realizado. 
+
+![UserFlow](../assets/img/chapter-IV/UserFlow-2.png) 
+
+HU007: Realización de pedidos
+* Como administrador de la empresa suscrita, quiero poder realizar pedidos de almuerzos en nombre de los empleados y programar la entrega de los mismos, para garantizar que los empleados reciban sus almuerzos de manera oportuna y conveniente
+
+El administrador realiza el pedido al seleccionar un restaurante de preferencia. El cual despliega la carta del día. Luego selecciona el menú y la bebida que desee ordenar, cargar la zona de pago y la programación de la hora que llegue el pedido. 
+
+![UserFlow](../assets/img/chapter-IV/UserFlow-3.png) 
 
 ### 4.5. Web Applications Prototyping.
 
