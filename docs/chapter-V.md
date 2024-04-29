@@ -1124,7 +1124,7 @@ La meta de este sprint fue el desarrollo del front-end de Easyfood. Para llevar 
 
 La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en el repositorio del front-end.
 
-![Contribuitors-frontend](/assets/img/chapter-V/contribuitors-frontend.png)
+![Contribuitors-frontend](../assets/img/chapter-V/contribuitors-frontend.png)
 
 En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el repositorio del front-end.
 

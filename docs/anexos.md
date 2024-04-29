@@ -34,5 +34,8 @@ https://my.vertabelo.com/public-model-view/4FnAjF9SXFScNFBxXBD8VsRxXpTCjtXen9Jtf
 **Aplicacion web Desplegada:**
 https://easy-food-front-end.vercel.app/home
 
+**Product Backlog:**
+https://www.pivotaltracker.com/n/projects/2699882
+
 **Video de exposicion:**
 
