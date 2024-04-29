@@ -1123,8 +1123,8 @@ La imagen muestra un gráfico de barras donde se refleja la cantidad de commits 
 ![Contribuitors-frontend](/assets/img/chapter-V/contribuitors-frontend.png)
 En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el repositorio del front-end.
 
-![Traffic-landing](/assets/img/chapter-V/traffic-frontend.png)
+![Traffic-frontend](/assets/img/chapter-V/traffic-frontend.png)
 Estos gráficos nos presenta información de las clonaciones que se hicieron al repositorio y tambien las visitas únicas que tuvo el repositorio.
 
-![Network-landing](/assets/img/chapter-V/network-frontend.png)
+![Network-frontend](/assets/img/chapter-V/network-frontend.png)
 En la imagen se ve la distribución de las ramas feature y cuando se unió a la rama master o main.
