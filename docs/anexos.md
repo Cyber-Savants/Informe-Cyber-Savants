@@ -28,5 +28,11 @@ https://cyber-savants.github.io/easyfood-landing-page/
 **Video de entrevistas:**
 https://upcedupe-my.sharepoint.com/personal/u202111041_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202111041%5Fupc%5Fedu%5Fpe%2FDocuments%2FAplicaciones%20Web%2FEntrevistas%2Fupc%2Dpre%2D202401%2Dsi730%2Dsv51%2DCybersavants%2D%20needfinding%2Dsprint%2D1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview 
 
+**Diagrama de  base de datos:**
+https://my.vertabelo.com/public-model-view/4FnAjF9SXFScNFBxXBD8VsRxXpTCjtXen9Jtf7MoO8jG36eS9E8dRmO1GbhmfLSh?x=2210&y=2736&zoom=0.70
+
+**Aplicacion web Desplegada:**
+https://easy-food-front-end.vercel.app/home
+
 **Video de exposicion:**
 
