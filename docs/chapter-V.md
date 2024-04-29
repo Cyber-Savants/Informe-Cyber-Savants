@@ -1113,3 +1113,18 @@ Para el desarrollo de este sprint 2 el equipo se enfoco en el desarrollo de el f
 # 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
 # 5.2.2.8.Team Collaboration Insights during Sprint.
+
+
+La meta de este sprint fue el desarrollo del front-end de Easyfood. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub para el manejo del repositorio, WebStorm de Jetbrains, JavaScript, Vue, Json-server. Como evidencias del trabajo realizado tenemos los diagramas de flujo que representan los commits realizados por cada miembro del equipo Cyber Savants.
+
+![Commits-frontend](/assets/img/chapter-V/commits-frontend.png)
+La imagen muestra un gráfico de barras donde se refleja la cantidad de commits hechos por cada miembro del equipo en el repositorio del front-end.
+
+![Contribuitors-frontend](/assets/img/chapter-V/contribuitors-frontend.png)
+En esta imagen se refleja la el nivel de modificaciones realizadas por los commits de cada integrante en el repositorio del front-end.
+
+![Traffic-landing](/assets/img/chapter-V/traffic-frontend.png)
+Estos gráficos nos presenta información de las clonaciones que se hicieron al repositorio y tambien las visitas únicas que tuvo el repositorio.
+
+![Network-landing](/assets/img/chapter-V/network-frontend.png)
+En la imagen se ve la distribución de las ramas feature y cuando se unió a la rama master o main.
