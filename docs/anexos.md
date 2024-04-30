@@ -1,5 +1,4 @@
 # Anexos:
------ 
 
 **Repositorio de la Organizacion**:
 https://github.com/Cyber-Savants
@@ -38,4 +37,6 @@ https://easy-food-front-end.vercel.app/home
 https://www.pivotaltracker.com/n/projects/2699882
 
 **Video de exposicion:**
+
+https://upcedupe-my.sharepoint.com/personal/u20201b529_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20201b529%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideos%20exposici%C3%B3n%2FVideo%2DJunto%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E61a30be2%2D59ab%2D4478%2D90b4%2De3c58df3c54e
 
