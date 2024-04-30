@@ -31,7 +31,11 @@ https://upcedupe-my.sharepoint.com/personal/u202111041_upc_edu_pe/_layouts/15/st
 https://my.vertabelo.com/public-model-view/4FnAjF9SXFScNFBxXBD8VsRxXpTCjtXen9Jtf7MoO8jG36eS9E8dRmO1GbhmfLSh?x=2210&y=2736&zoom=0.70
 
 **Aplicacion web Desplegada:**
+*Vercel* : Entrar dede github
 https://easy-food-front-end.vercel.app/home
+
+*Firebase*
+https://easyfood-front-end.web.app/
 
 **Product Backlog:**
 https://www.pivotaltracker.com/n/projects/2699882
