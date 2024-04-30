@@ -959,6 +959,124 @@ Para el desarrollo de este sprint 2 el equipo se enfoco en el desarrollo de el f
 
 # 5.2.2.2.Sprint Backlog 2.
 
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> HU004 Actualizar información de la cuenta</td>
+    <td align="center"> TA01 </td>
+     <td align="center"> Perfil de usuario</td>
+    <td align="center">Debe de poder visualizar su perfil</td>
+    <td align="center"> 1</td>
+    <td align="center"> Omar Christian Berrocal Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Actualizar perfil de usaurio</td>
+    <td align="center"> Debe de ser capas de actualizar la informacion de perfil</td>
+    <td align="center"> 2</td>
+    <td align="center"> Omar Christian Berrocal Ramirez</td>
+    <td align="center">In process</td>
+  </tr>
+<!----------------------------------------------->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> HU005 Acceder a catalogo diario de menú</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Catalogo</td>
+    <td align="center"> Debe de poder visualizar los menus que proporcionan cada restaurante</td>
+    <td align="center"> 3</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Catalogo restaurantes</td>
+    <td align="center"> Debe de poder visualizar y poder seleccionar el restaurante deseado </td>
+    <td align="center"> 2</td>
+    <td align="center"> Ruben Velasquez Chambi</td>
+    <td align="center"> Done</td>
+  </tr>
+<!-------------------------------------------------->
+<tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU007 A	Realización de pedidos</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Realizar un nuevo pedido</td>
+    <td align="center"> Debe poder cargar los datos de los menus seleccionado por el cliente y generar una orden</td>
+    <td align="center"> 3</td>
+    <td align="center"> Fabrizio Alexander Cutiri Agüero</td>
+    <td align="center">In process</td>
+  </tr>
+
+
+<!---------------------------------------------------->
+<tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU009 Acceder a Registro de pedidos.</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Historial de ordenes</td>
+    <td align="center"> Debe poder cargar los datos de las ordenes realizadas </td>
+    <td align="center"> 1 </td>
+    <td align="center"> Fabrizio Alexander Cutiri Agüero</td>
+    <td align="center">In process</td>
+  </tr>
+<!------------------------------------------------>
+<tr>
+    <td rowspan="1" align="center"> ID </td>
+    <td rowspan="1" align="center"> HU010 	Actualización de menú diario.</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Actualizar menus</td>
+    <td align="center"> Los restaurantes deben de poder actualizar el menu del dia </td>
+    <td align="center"> 4 </td>
+    <td align="center"> Sebastian Cordova Valdivia</td>
+    <td align="center">In process</td>
+  </tr>
+  <!------------------------------------------------>
+ <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> HU029 	Acceso rápido a registro y suscripción</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Mostar los planes de suscripcion</td>
+    <td align="center"> Debe ser capas de mostrar los planes de suscripcion, costo y beneficios</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Renzo José Araujo Ingunza</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Formulario de suscripcion</td>
+    <td align="center"> Debe de poder mostrar un formulario de sucripcion y agregar el tipo de suscripcion a un usuario</td>
+    <td align="center"> 3</td>
+    <td align="center"> Renzo José Araujo Ingunza</td>
+    <td align="center">In process</td>
+  </tr>
+   <!------------------------------------------------>
+
+</table>
+
 # 5.2.2.3.Development Evidence for Sprint Review.
 
 <table>
@@ -1107,6 +1225,7 @@ Para el desarrollo de este sprint 2 el equipo se enfoco en el desarrollo de el f
 
 # 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
+Durante el sprint numero 2 se desarrollo una parte del front-end. Por lo cual no se necesitaron pruebas testing.
 
 # 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
